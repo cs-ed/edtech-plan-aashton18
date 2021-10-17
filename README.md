@@ -6,6 +6,9 @@ Serving grades 6-8, Riverside Meadows Intermediate School is the first K-12 scho
 
 After complete development of the program at the middle school level, the District’s long-term plan is to trickle down the instruction of CS concepts through STEM activities with our K-5 schools by adding a special class (in conjunction with our PE and VAPA programs). In addition, the summer school session provides an opportunity to reach younger students, entice interest in the middle school’s computer science program, and vet future course offerings at the upper level. This initiative is a collaborative effort between Plumas Lake Elementary School District’s superintendent, the middle school principal, and myself.
 
+![Blue Collage Simple Open House Flyer](https://user-images.githubusercontent.com/89342722/137635423-e65a9d8b-bf1f-483f-a7de-8b2a04a89365.png)
+
+
 ## School Site Context
 * Location
   * Riverside Meadows Intermediate School Serves students in grades 6-8 and is the only middle school within the Plumas Lake Elementary School district.  The school resides in a small residential community of Plumas Lake, which is located near Beale AFB, 20 minutes south of Marysville/Yuba City, and 30 minutes north of Sacramento.
@@ -177,7 +180,7 @@ Classes used - Python, Intro to CS, Coding
 ### Hardware Specifications
 
 **Computers**
-* Mac 27” - https://www.apple.com/imac-27/
+* [Mac 27”](https://www.apple.com/imac-27/)
   * Need: 29
     * Teacher - 1
     *  Students - 28 
