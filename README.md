@@ -81,16 +81,252 @@ After complete development of the program at the middle school level, the Distri
 
 ### Software Specifications
 
+**District & School Site**
 
+* Web Browser
+  * Google Chrome
+
+* Cloud Computing & Productivity Tools
+  * Google Workspace for Education
+    * Google Classroom
+      * Learning Management System
+    * Gmail
+    * Google Calendar
+    * Google Docs
+    * Google Slides
+    * Google Forms
+    * Google Sheets
+    * Google Drawings
+    * Google Jamboard
+
+* Student Information System
+  * Aeries 
+
+* Online Video Conferencing
+  * Zoom
+  * Google Meet
+
+* Operating System
+  * macOS Big Sur
+
+**Computer Science Curriculum**
+  * [Codesters](https://www.codesters.com/#overview) - An online coding platform geared towards grades 6-8 to teach Python.  Interactive projects are aligned with 6-8 Math and Science Standards. In addition, the license includes a learning management system for teachers and lesson plans aligned with CSTA Standards.
+    * Purchased - 400 seats for the 2021-2022 school year
+    * Classes used - Python, Intro to CS, Coding
+
+* [Ozaria](https://www.ozaria.com/home) by Code Combat - An online coding platform that teaches Python and JavaScript through gameplay. Aligned with middle-school CSTA standards, the curriculum supports students learning computer science concepts through project-based learning while providing real-time feedback of student progress through a teacher dashboard.
+  * Purchased - 28 seats for the 2021-2022 school year
+  * Classes used - Python
+
+* [Code.org Fundamentals Express Course](https://code.org/educate/curriculum/express-course) - 30-hour block-based programming course used to supplement instruction.  Teaches all core concepts of its elementary programs at an accelerated pace for older students.
+  * Purchased - N/A (Free)
+  * Classes used - Coding, Intro to CS, Robotics
+
+* [Code.org Computer Science Discoveries](https://code.org/educate/csd) - A 150-hour introductory course that teaches CS principles, including problem-solving, website creation, game development, machine learning, and physical computing.
+  * Purchased - N/A (Free)
+  * Classes used - Intro to CS
+
+**Supplemental Curriculum**
+
+* [Co Spaces Edu](https://cospaces.io/edu/) - 3D models, block-based coding, virtual reality, and augmented reality creations.
+Purchased - 100 seats for the 2021-2022 school year
+  * Classes used - Python, Intro to CS, Coding
+
+* [TinkerCad](https://www.tinkercad.com/) - Free online 3D design, electronics, coding platform.  Integrates with CoSpaces Edu and 3D printers
+  * Classes used - Intro to CS, Digital Art
+
+* [Adobe Spark](https://www.adobe.com/express/) - Free online 2D design for the creation of flyers, videos, and websites.
+  * Classes used - Intro to CS, Digital Art
+
+* [Blender](https://www.blender.org/) - Open sources 3D software used to build 3D graphics & animations
+  * Classes used - Digital Art
+
+**iOS Applications**
+
+* [Blockly](https://www.makewonder.com/apps/blockly/) - Introduces fundamental and advanced coding concepts through playful projects and puzzles. They are used with the Dash robot.
+  * Classes used: Intro to CS, Robotics
+
+* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) -  Students will solve puzzles to master the basics using Swift.  They will then take on challenges to step up to more advanced playgrounds designed by Apple, used with the Dash robot.
+  * Classes used: Intro to CS
+
+* [Sphero Edu](https://sphero.com/pages/apps) - Used to complete STEAM activities with the SPRK robot.  Beginner to advanced coding option to include drawing lines, building with Scratch blocks, or JavaScript.
+  * Classes used: Intro to CS, Robotics
+
+**Teacher Instructional Resources**
+
+* [Nearpod](https://nearpod.com/) - Online platform used to deliver synchronous and asynchronous lessons through video, interactive and gamified activities.  Supports learners in and outside the classroom.
+  * Purchased - Site License
+  * Classes used - Python, Intro to CS, Coding
+
+* [Screencastify](https://www.screencastify.com/) - Online screen-recording and editing.  Integers with Chrome. 
+  * Purchased - Individual Teacher License
+  * Classes used - Python, Intro to CS, Coding
+
+* [Kahoot](https://kahoot.com/) - Online quiz game for synchronous or asynchronous instruction.  Students can compete individually or work together in teams.  Teachers can monitor concept understanding through progress reports.
+  * Purchased - Individual Teacher License
+  * Classes used - Python, Intro to CS, Coding, Robotics
+
+* [GimKit Live](https://www.gimkit.com/product/live) - A live online game that encourages student collaboration while reinforcing learning concepts through various gameplays.
+Purchased - Individual Teacher License
+Classes used - Python, Intro to CS, Coding
+
+* [Quizlet](https://quizlet.com/latest) - Digital flashcards for vocabulary review.
+  * Purchased - Individual Teacher License
+  * Classes used - Python, Coding
 
 ### Hardware Specifications
+Mac 27” - https://www.apple.com/imac-27/
+Need: 29
+1 - Teacher
+28 - Students
+Tech Specs:
+Display - 5K Retina display
+Processor - 3.1GHz 6-core 10th generation Intel Corei5
+Memory - Upgraded to 16GB; four SO-DIMM slots
+Storage - 256GB SSD
+Graphics - AMD Radeon Pro 5300 with 4GB of GDDR6 memory
+Video/Camera - 1080p FaceTime HD camera; Thunderbolt 3 digital; video output
+Audio - Stereo speakers, 3.5 mm headphone jack
+Input - Magic keyboard; Magic mouse
+Wireless - Wi-Fi; Bluetooth
+Size - Height - 20.3 in; Width - 25.6 in; Depth - 8 in; Weight - 19.7 lbs
+Electrical - 100-240V AC
+Justification: 
+Meets recommended hardware, graphic card, and RAM needed for graphic design & 3D rendering (Blender).  The summer Digital Art course will be developed into a year-long course in conjunction with the Art department in the future.  These Macs will support that course in the future.
+Blender requirements - https://www.blender.org/download/requirements/
+Large screen, mouse, and keyboard allow students to read and develop code easily for their interactive projects.
+All-in-one desktop minimizes cords and increases desk space for students to work.
+
+Peripherals
+Headphones - Classroom set to support students in watching curriculum instruction and projects involving sound.
+Need - 28 
+Magic Keyboard
+Need - 28
+Magic Mouse
+Nee - 28
+iPads
+Need - 14
+Tech Specs - iOS 13.4+
+Justification - Used to teach Swift Playground, operate Dash and Sprk Robots
+Dash Robots
+Currently have - 8 
+Link - https://www.makewonder.com/robots/dash/
+Tech Specs
+Playtime - Up to 3 hours
+Charge time - 1 hour
+Battery - Built-in rechargeable lithium-ion
+Charging - Micro USB
+Connectivity - Bluetooth Smart 4/LE
+Dimensions - Height - 6.34 in; Width - 7.17 in; Length - 6.69; Weight - 1.76 lbs
+Justification - Used for Intro to CS spring robotics unit and Summer School course.
+Sphero SPRK robot
+Currently have - 16
+Link - https://sphero.com/products/sphero-sprk-plus
+Tech Specs - Requires Bluetooth 4.0, iOS 12+, and inductive charging stand
+Justification - Used for Intro to CS spring robotics unit and Summer School course.
 
 ### Furniture Specifications
+Student Desks
+Need - 14 tables for 28 students
+Smith System Planner Access Station
+Link https://smithsystem.com/furniture/single-student-table/
+Specs - 
+30” x 30” x 84”
+Backpack pegs
+Locking wireway for cables and wires
+Student Chairs
+Have - 28 chairs
 
-### Education & Technology Application
+## Education & Technology Application
+The computer science program at Riverside Meadows uses the Modern Classroom Project instruction model (https://www.modernclassrooms.org/).  Using blended learning, students can watch teacher-created videos while taking digital notes.  Students then complete classwork at their own pace.  When students have completed the coursework, they take a short Mastery Check to demonstrate mastery of the content taught in that lesson before moving on to the next unit.  
+This model allows the teacher to differentiate instruction for all learners and free classroom time to provide 1:1 or small-group support throughout the period. In addition, the use of instructional videos supports learners who are placed into quarantine due to being in close contact with a positive individual. Students can continue learning and keeping up with assignments, despite being outside the physical classroom.
+This approach has been featured and supported by:
+John Hopkins University
+https://drive.google.com/file/d/104fwAvxcuoLw7nEv8see1crmHCocwrfc/view)
+Edutopia
+https://www.edutopia.org/article/blended-learning-built-teacher-expertise
+EdSurge
+https://www.edsurge.com/news/2020-06-01-why-middle-schoolers-thrive-in-a-self-paced-classroom
+Cult of Pedagogy Podcast
+https://www.cultofpedagogy.com/self-paced-how-to/
+In addition to using the Modern Classroom Project model to support learners of all abilities, implementing a daily community circle with weekly collaborative review games allows for constructing a supportive classroom environment.  Students are equipped to support one another as they work through complex concepts, and the teacher can build strong relationships with the students.
+Computer Science Classes at Riverside Meadows follow the same daily and weekly cycle:
+Python
+Bellwork - Students complete Python gameplay through Ozaria/CodeCombat the first 10 minutes of class.
+Community Circle - Using a daily guided question, students take turns responding using the classroom’s talking piece (a rainstick).  After the conclusion of this restorative circle, the teacher conducts a quick classroom check-in to include student shout-outs, on-pace lesson guidance, or upcoming event notifications.
+Blended Instruction - Students watch short, teacher-created videos while taking digital guided notes.  This instruction includes a review of the previous lesson’s vocabulary, pre-teaching of new vocabulary and concepts, and guidance on potential misunderstandings.
+Tools used:
+Google Slides (Assignment slide with step-by-step lesson instructions with hyperlinks to:
+Warm-Up Google Form
+Unplugged activity (read and interpret code)
+Quizlet flashcards
+Instructional Video & Guided Notes
+Screencastify
+Google Slide Digital Notebook
+Self-Paced Classwork - Students move on to the Codesters platform to complete the lesson and final project.
+Tools Used:
+Google Slides (hyperlink)
+Codesters
+Mastery Checks -  Once students have completed the classwork, they complete the Mastery Check using an assigned Kahoot.  This allows students to review the results immediately.  They must retake a new Mastery Check if they score below 80%.  Students are asked to review their notes and lessons before taking another Mastery Check.  If students fail to pass with an 80% on the second try, students will work 1:1 with the teacher on concepts.
+Tools used -
+Google Slides (Hyperlink)
+Kahoot 
+Concept Review - Weekly Friday collaborative gameplay is used to build community, review that week’s content, and provide the teacher with immediate, informal feedback for individual students while walking around the classroom.
+Tools Used -
+GimKit
+Intro to Computer Science
+Bellwork - Students complete block-based or text-based coding instruction in the first 10 minutes of the class to support classwork instruction.
+Tools used:
+Code.org Fundamental Express COurse (block-based coding)
+Codemoji - HTML/CSS & JavaScript
+Ozaria/Codecombat - JavaScript
+Community Circle - Using a daily guided question, students take turns responding using the classroom’s talking piece (a rainstick).  After the conclusion of this restorative circle, the teacher conducts a quick classroom check-in to include student shout-outs, on-pace lesson guidance, or upcoming event notifications.
+Blended Instruction - Students watch short, teacher-created videos while taking digital guided notes.  This instruction includes a review of the previous lesson’s vocabulary, pre-teaching of new vocabulary and concepts, and guidance on potential misunderstandings.
+Tools used:
+Google Slides (Assignment slide with step-by-step lesson instructions with hyperlinks to:
+Warm-Up Google Form
+Unplugged activity (read and interpret code)
+Quizlet flashcards
+Instructional Video & Guided Notes
+Screencastify
+Google Slide Digital Notebook
+Self-Paced Classwork - Students move on to Code.org’s platform to complete the lesson and final project.
+Tools Used:
+Google Slides (hyperlink)
+Computer Science Discoveries
+Mastery Checks - Once students have completed the classwork, they complete the Mastery Check using an assigned Kahoot.  This allows students to review the results immediately.  They must retake a new Mastery Check if they score below 80%.  Students are asked to review their notes and lessons before taking another Mastery Check.  If students fail to pass with an 80% on the second try, students will work 1:1 with the teacher on concepts.
+Tools used -
+Google Slides (Hyperlink)
+Kahoot 
+Concept Review - Weekly Friday collaborative gameplay is used to build community, review that week’s content, and provide the teacher with immediate, informal feedback for individual students while walking around the classroom.
+Tools Used -
+GimKit
+Coding
+Bellwork - Students complete typing instruction using Typing.com for the first 10 minutes of class.
+Community Circle - Using a daily guided question, students take turns responding using the classroom’s talking piece (a rainstick).  After the conclusion of this restorative circle, the teacher conducts a quick classroom check-in to include student shout-outs, on-pace lesson guidance, or upcoming event notifications.
+Blended Instruction - Students watch short, teacher-created videos while taking digital guided notes.  This instruction includes a review of the previous lesson’s vocabulary, pre-teaching of new vocabulary and concepts, and guidance on potential misunderstandings.
+Tools used:
+Google Slides (Assignment slide with step-by-step lesson instructions with hyperlinks to:
+Warm-Up Google Form
+Unplugged activity (read and interpret code)
+Quizlet flashcards
+Instructional Video & Guided Notes
+Screencastify
+Google Slide Digital Notebook
+Self-Paced Classwork - Students move on to the Codesters platform to complete the lesson and final project.
+Tools Used:
+Google Slides (hyperlink)
+Codesters
+Mastery Checks -  Once students have completed the classwork, they complete the Mastery Check using an assigned Kahoot.  This allows students to review the results immediately.  They must retake a new Mastery Check if they score below 80%.  Students are asked to review their notes and lessons before taking another Mastery Check.  If students fail to pass with an 80% on the second try, students will work 1:1 with the teacher on concepts.
+Tools used -
+Google Slides (Hyperlink)
+Kahoot 
+Concept Review - Weekly Friday collaborative gameplay is used to build community, review that week’s content, and provide the teacher with immediate, informal feedback for individual students while walking around the classroom.
+Tools Used -
+GimKit
 
 
-### Impacts & Challenges of Computer Science Education
+## Impacts & Challenges of Computer Science Education
 In the education profession, instilling 21st Century Literacy Skills in students has been touted as an educational priority. But, what are these skills, why are they important, and how prepared are educators to teach them?  Moving beyond reading and writing instruction, which forms traditional literacy, students must now be able to use scientific reasoning, be multicultural aware, and use critical thinking to succeed in today's high-tech environment.  Computer science, which develops a student's ability to computational think, persevere, and create, is an excellent way to develop those necessary 21st Century Literacy requirements.  The challenge, however, is gaining the critics' support and finding enough qualified educators to bring this subject to the forefront of the school system.
 
 The world has transitioned to become more and more reliant on technology and the internet.  As this reliance grows, the job market has followed in this transition.  In fact, "already over 90 percent of jobs that humans used to do in the past have been taken over by computers" (Balakrishnan, 2018). "Advances in computer processing power and internet connectivity mean that our service sector is affected ... travel agents, bankers, sales assistants, and even doctors and lawyers are seeing the tasks they used to perform replaced by programs and machines which do their jobs faster, cheaper and sometimes more accurately.  The scale of this challenge is enormous. Economists Carl Benedikt Frey and Michael Osbourne predict that 47% of existing jobs are under threat from automation" (Chalmers & Watts, 2014).  Educators are tasked to provide the necessary skills to help their students succeed in their future careers.  This means that this profession needs to be more cognizant of what those future careers look like.  As computers have taken dominance, it is time to revitalize the curriculum to support the future within this changing marketplace.
