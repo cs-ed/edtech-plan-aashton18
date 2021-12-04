@@ -60,25 +60,13 @@ After complete development of the program at the middle school level, the Distri
     * Grade 6 (28 students)
   * Two 52 minute class period (M-F)
     * Grades 7 & 8 (28 students per period)
-* Course Desciption -  This elective is an introductory computer science course covering a wide range of activities, including problem-solving, programming, physical computing, user-centered design, and data.  Students will learn to build websites, apps, animations, games, and physical computing systems using JavaScript, HTML/CSS, and robotics.   
+* Course Desciption -  This elective is an introductory computer science course covering a wide range of activities, including problem-solving, programming, user-centered design, and machine learning.  Students will learn to build websites, apps, animations, and games using JavaScript, HTML, and CSS.   
 
 **Coding**
 * Trimester electice course (as part of the 6th-grade trimester wheel)
   * One 52 minute class period (M-F)
   * Grade 6 (28 students)
 * Course Description - Students will be introduced to Python to design projects aligned with 6th-grade math and science standards using loops, events, functions, and conditionals. They will investigate different problem-solving techniques and discuss the societal impacts of computing and the internet. By the end of the course, students will program interactive stories and games to share with their friends and family.  
-
-### Summer School Electives
-
-**Robotics**
-* Three week program (M-Th)
-* Audience - Grades 4 & 5
-* Course Description - Students will initially learn fundamental coding concepts using code.org’s Fundamental Course (Level E or F) and Dash’s Neighborhood. Students will then complete coding puzzles using Blockly to help their Dash Robot successfully navigate various courses.  Students will also have the opportunity to virtually tour an Amazon warehouse to see how modern robots are utilized.
-
-**Digital Art**
-* Three week program (M-Th)
-* Audience - Grades 6-8
-* Course Description - Students will initially learn 2D graphic design using Adobe Spark to build graphics, collages, flyers, videos, and animations.  They will then explore 3D design concepts, including modeling, rigging, animation, simulation, rendering, composition, motion tracking, and video editing, using Blender.
 
 ## Educational & Technology Needs
 
@@ -123,7 +111,7 @@ After complete development of the program at the middle school level, the Distri
 
 * [Code.org Fundamentals Express Course](https://code.org/educate/curriculum/express-course) - 30-hour block-based programming course used to supplement instruction.  Teaches all core concepts of its elementary programs at an accelerated pace for older students.
   * Purchased - N/A (Free)
-  * Classes used - Coding, Intro to CS, Robotics
+  * Classes used - Coding, Intro to CS
 
 * [Code.org Computer Science Discoveries](https://code.org/educate/csd) - A 150-hour introductory course that teaches CS principles, including problem-solving, website creation, game development, machine learning, and physical computing.
   * Purchased - N/A (Free)
@@ -136,24 +124,15 @@ Purchased - 100 seats for the 2021-2022 school year
   * Classes used - Python, Intro to CS, Coding
 
 * [TinkerCad](https://www.tinkercad.com/) - Free online 3D design, electronics, coding platform.  Integrates with CoSpaces Edu and 3D printers
-  * Classes used - Intro to CS, Digital Art
+  * Classes used - Intro to CS
 
 * [Adobe Spark](https://www.adobe.com/express/) - Free online 2D design for the creation of flyers, videos, and websites.
-  * Classes used - Intro to CS, Digital Art
-
-* [Blender](https://www.blender.org/) - Open sources 3D software used to build 3D graphics & animations
-  * Classes used - Digital Art
+  * Classes used - Intro to CS
 
 **iOS Applications**
 
-* [Blockly](https://www.makewonder.com/apps/blockly/) - Introduces fundamental and advanced coding concepts through playful projects and puzzles. They are used with the Dash robot.
-  * Classes used: Intro to CS, Robotics
-
-* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) -  Students will solve puzzles to master the basics using Swift.  They will then take on challenges to step up to more advanced playgrounds designed by Apple, used with the Dash robot.
+* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/) -  Students will solve puzzles to master the basics using Swift.  They will then take on challenges to step up to more advanced playgrounds designed by Apple.
   * Classes used: Intro to CS
-
-* [Sphero Edu](https://sphero.com/pages/apps) - Used to complete STEAM activities with the SPRK robot.  Beginner to advanced coding option to include drawing lines, building with Scratch blocks, or JavaScript.
-  * Classes used: Intro to CS, Robotics
 
 **Teacher Instructional Resources**
 
@@ -161,13 +140,13 @@ Purchased - 100 seats for the 2021-2022 school year
   * Purchased - Site License
   * Classes used - Python, Intro to CS, Coding
 
-* [Screencastify](https://www.screencastify.com/) - Online screen-recording and editing.  Integers with Chrome. 
+* [Screencastify](https://www.screencastify.com/) - Online screen-recording and editing.  Integrates with Chrome. 
   * Purchased - Individual Teacher License
   * Classes used - Python, Intro to CS, Coding
 
 * [Kahoot](https://kahoot.com/) - Online quiz game for synchronous or asynchronous instruction.  Students can compete individually or work together in teams.  Teachers can monitor concept understanding through progress reports.
   * Purchased - Individual Teacher License
-  * Classes used - Python, Intro to CS, Coding, Robotics
+  * Classes used - Python, Intro to CS, Coding
 
 * [GimKit Live](https://www.gimkit.com/product/live) - A live online game that encourages student collaboration while reinforcing learning concepts through various gameplays.
 Purchased - Individual Teacher License
@@ -194,11 +173,9 @@ Classes used - Python, Intro to CS, Coding
     * Audio - Stereo speakers, 3.5 mm headphone jack
     * Input - Magic keyboard; Magic mouse
     * Wireless - Wi-Fi; Bluetooth
-    * Size - Height - 20.3 in; Width - 25.6 in; Depth - 8 in; Weight - 19.7 lbs
-    * Electrical - 100-240V AC
   * Justification
-    * Meets recommended hardware, graphic card, and RAM needed for graphic design & 3D rendering.  
-      * The summer Digital Art course will be developed into a year-long course in conjunction with the Art department in the future.  These Macs will support that course in the future.
+    * Meets recommended hardware, graphic card, and RAM needed for future graphic design & 3D rendering course using Blender.  
+      * A Digital Art course will be developed into a year-long course in conjunction with the Art department for the 2022-2023.  These Macs will support that course.
       * [Blender requirements](https://www.blender.org/download/requirements/)
     * Large screen, mouse, and keyboard allow students to read and develop code easily for their interactive projects.
     * All-in-one desktop minimizes cords and increases desk space for students to work.
@@ -208,30 +185,8 @@ Classes used - Python, Intro to CS, Coding
   * Need - 28 
 * Magic Keyboard
   * Need - 28
-( Magic Mouse
+* Magic Mouse
   * Need - 28
-
-**iPads**
-* Need - 14
-* Tech Specs - iOS 13.4+
-* Justification - Used to teach Swift Playground, operate Dash and Sprk Robots
-
-**Robots**
-* [Dash Robot](https://www.makewonder.com/robots/dash/)
-  * Currently have - 8 
-  * Tech Specs:
-    * Playtime - Up to 3 hours
-    * Charge time - 1 hour
-    * Battery - Built-in rechargeable lithium-ion
-    * Charging - Micro USB
-    * Connectivity - Bluetooth Smart 4/LE
-    * Dimensions - Height - 6.34 in; Width - 7.17 in; Length - 6.69; Weight - 1.76 lbs
-  * Justification - Used for Intro to CS spring robotics unit and Summer School course.
-
-* [Sphero SPRK+](https://sphero.com/products/sphero-sprk-plus)
-  * Currently have - 16
-  * Tech Specs - Requires Bluetooth 4.0, iOS 12+, and inductive charging stand
-  * Justification - Used for Intro to CS spring robotics unit and Summer School course.
 
 ### Furniture Specifications
 **Student Desks**
@@ -249,7 +204,7 @@ Classes used - Python, Intro to CS, Coding
 
 The computer science program at Riverside Meadows uses the [Modern Classroom Project](https://www.modernclassrooms.org/) instruction model.  Using blended learning, students can watch teacher-created videos while taking digital notes.  Students then complete classwork at their own pace.  When students have completed the coursework, they take a short Mastery Check to demonstrate mastery of the content taught in that lesson before moving on to the next unit.  
 
-This model allows the teacher to differentiate instruction for all learners and free classroom time to provide 1:1 or small-group support throughout the period. In addition, the use of instructional videos supports learners who are placed into quarantine due to being in close contact with a positive individual. Students can continue learning and keeping up with assignments, despite being outside the physical classroom.
+This model allows the teacher to differentiate instruction for all learners and free classroom time to provide 1:1 or small-group support throughout the period. In addition, the use of instructional videos supports learners who are placed into quarantine. Students can continue learning and keeping up with assignments, despite being outside the physical classroom.
 
 This approach has been featured and supported by:
 * [John Hopkins University](https://drive.google.com/file/d/104fwAvxcuoLw7nEv8see1crmHCocwrfc/view)
